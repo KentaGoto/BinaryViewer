@@ -6,3 +6,6 @@ https://news.mynavi.jp/article/gogogo-8/
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
